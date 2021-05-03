@@ -1,1 +1,1 @@
-web:Gunicorn shiv.wgsi --log-file -
+web:Gunicorn app1.wgsi --log-file -
