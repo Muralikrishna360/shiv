@@ -1,1 +1,1 @@
-web:Gunicorn app1.wgsi --log-file -
+web:Gunicorn app1.wsgi --log-file -
